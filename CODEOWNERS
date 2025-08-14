@@ -1,0 +1,39 @@
+# CODEOWNERS for LLMConsent Standards Repository
+# 
+# This file defines who reviews and approves changes to standards.
+# Changes to accepted standards require review from maintainers.
+#
+# Format: <pattern> <owner>
+# Owners are GitHub usernames or email addresses
+
+# Global owners for all files
+* @subhadipmitra
+
+# Core standards require extra review
+/core/ @subhadipmitra
+/core/LCS-001.md @subhadipmitra
+/core/LCS-002.md @subhadipmitra
+/core/LCS-003.md @subhadipmitra
+/core/LCS-004.md @subhadipmitra
+
+# Governance documents
+/CHARTER.md @subhadipmitra
+/PROCESS.md @subhadipmitra
+/VERSIONS.md @subhadipmitra
+
+# GitHub configuration
+/.github/ @subhadipmitra
+
+# Extension standards
+/extensions/ @subhadipmitra
+
+# Proposals can be submitted by anyone, but need review
+/proposals/ @subhadipmitra
+
+# Documentation and examples
+/README.md @subhadipmitra
+/LICENSE @subhadipmitra
+
+# Note: As the community grows, we will add more maintainers here.
+# To become a maintainer, submit a proposal following the process
+# outlined in CHARTER.md

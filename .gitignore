@@ -1,0 +1,69 @@
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.pyc
+__pycache__/
+node_modules/
+package-lock.json
+yarn.lock
+
+# Documentation build
+docs/_build/
+site/
+.cache/
+
+# Testing
+coverage/
+.coverage
+*.log
+.pytest_cache/
+test-results/
+
+# Environment
+.env
+.env.local
+venv/
+env/
+*.env
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.orig
+
+# Security
+*.key
+*.pem
+*.crt
+*.p12
+private/
+
+# OS generated
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Proposal drafts (local only)
+proposals/drafts/
+proposals/*.draft.md
+
+# Personal notes
+notes/
+TODO.personal.md

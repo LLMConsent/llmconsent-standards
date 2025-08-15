@@ -135,7 +135,7 @@ See [VERSIONS.md](VERSIONS.md) for version history.
 
 ### Community
 - Website: [llmconsent.org](https://llmconsent.org)
-- Discord: [Join our community](https://discord.gg/llmconsent)
+- Discord: [Join our community](https://discord.gg/c2tjrZKcbR)
 - Twitter: [@llmconsent](https://twitter.com/llmconsent)
 
 ### Technical

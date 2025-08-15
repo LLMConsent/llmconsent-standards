@@ -316,7 +316,7 @@ No, accepted standards are immutable. Changes require new proposals that superse
 
 - **Mailing List**: standards@llmconsent.org
 - **GitHub**: https://github.com/llmconsent/standards
-- **Discord**: https://discord.gg/llmconsent
+- **Discord**: https://discord.gg/c2tjrZKcbR
 
 ## Copyright
 

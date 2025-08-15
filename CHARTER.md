@@ -198,7 +198,7 @@ By contributing, you agree to:
 
 - **GitHub**: https://github.com/llmconsent/standards
 - **Email**: standards@llmconsent.org
-- **Discord**: https://discord.gg/llmconsent
+- **Discord**: https://discord.gg/c2tjrZKcbR
 
 ## Acknowledgments
 
